@@ -2,6 +2,7 @@ import React from 'react'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Container from 'react-bootstrap/Container'
+import './Header.css'
 
 const Header = () => {
     return (

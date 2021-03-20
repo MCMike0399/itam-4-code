@@ -8,7 +8,7 @@ const Menu = () => {
         <div>
             <Container>
                 <Row>
-                    <Col><Square></Square></Col>
+                    <Col><Square name="Curso de Git"></Square></Col>
                     <Col><Square></Square></Col>
                     <Col><Square></Square></Col>
                 </Row>
