@@ -8,7 +8,7 @@ const Header = () => {
         <div>
            <Jumbotron fluid>
             <Container>
-                <h1>ITAM4Code</h1>
+                <h1 className="Título">ITAM-FOR-CODE</h1>
                 <p>
                 ITAM-4-Code es una OE que busca fomentar la creación de proyectos de código abierto. 
                 </p>
