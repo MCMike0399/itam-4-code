@@ -10,8 +10,7 @@ const Header = () => {
             <Container>
                 <h1>ITAM4Code</h1>
                 <p>
-                This is a modified jumbotron that occupies the entire horizontal space of
-                its parent.
+                ITAM-4-Code es una OE que busca fomentar la creación de proyectos de código abierto. 
                 </p>
             </Container>
             </Jumbotron>
