@@ -1,0 +1,30 @@
+.purple-btn {
+    background: purple;
+    color: white;
+    border: 2px solid purple;
+    border-radius: 3px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+.purple-btn:hover {
+    background-color: blueviolet;
+}
+.purple-btn:active {
+    background-color: azure;
+    color: black;
+}
+.black-btn {
+    background: black;
+    color: white;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+.black-btn:hover {
+    background-color: #232b2b;
+}
+.black-btn:active {
+    background-color: azure;
+    color: black;
+}

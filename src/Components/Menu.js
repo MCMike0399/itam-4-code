@@ -8,9 +8,12 @@ const Menu = () => {
         <div>
             <Container>
                 <Row>
-                    <Col><Square name="Curso de Git"></Square></Col>
-                    <Col><Square></Square></Col>
-                    <Col><Square></Square></Col>
+                    <Col><Square name="Curso de Git" color=
+                    "black-btn" texto="Aprenderemos a usar Git" ></Square></Col>
+                    <Col><Square name="Curso de Terminal" color=
+                    "purple-btn"  ></Square></Col>
+                    <Col><Square name="Curso de Python" color=
+                    "black-btn"  ></Square></Col>
                 </Row>
             </Container>
         </div>
