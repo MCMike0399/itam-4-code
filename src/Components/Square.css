@@ -1,30 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap%27)');
 .purple-btn {
-    background: purple;
+    background: #800080;
     color: white;
-    border: 2px solid purple;
+    border: 1px solid purple;
     border-radius: 3px;
     padding: 5px 10px;
     text-transform: uppercase;
 }
 .purple-btn:hover {
-    background-color: blueviolet;
+    background-color: #8a2be2;
 }
 .purple-btn:active {
     background-color: azure;
     color: black;
 }
 .black-btn {
-    background: black;
+    background: #0c5ac0;
     color: white;
-    border: 2px solid black;
+    border: 1px solid #0c5ac0;
     border-radius: 3px;
     padding: 5px 10px;
     text-transform: uppercase;
 }
 .black-btn:hover {
-    background-color: #232b2b;
+    background-color: #206fa3;
 }
 .black-btn:active {
     background-color: azure;
     color: black;
+}
+
+.green-btn {
+    background: #178a0c;
+    color: white;
+    border: 1px solid  #178a0c;
+    border-radius: 3px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+.green-btn:hover {
+    background-color:  #35c428;
+}
+.green-btn:active {
+    background-color: azure;
+    color: black;
+}
+
+.tarjetas {
+    background-color: #272727;
+    border: 1px solid rgba(146, 134, 134, 0.945);
+}
+
+.texto{
+    color: white;
 }
