@@ -52,7 +52,11 @@
 }
 
 .tarjetas:hover {
-    transform: translateY(-5px);
+    transform: translateY(-7px);
+    transition-duration: 0.5s
+}
+
+.tarjetas:not(:hover){
     transition-duration: 0.5s
 }
 
